@@ -3,7 +3,7 @@ import AppTitle from "./components/AppTitle.vue"
 
 export default {
   components: {
-    AppTitle
+    AppTitle,
   }
 }
 </script>
@@ -13,5 +13,5 @@ export default {
   </div>
 </template>
 <style lang="">
-  
+    
 </style>
